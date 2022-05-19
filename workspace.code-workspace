@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Fake Friends List"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Fake Friends List"
+	}
+}
